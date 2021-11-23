@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CitiesNovember</string>
+    <string name="city_alushta">Алушта</string>
+    <string name="city_dzhankoi">Джанкой</string>
+    <string name="city_saki">Саки</string>
+    <string name="city_sevastopol">Севастополь</string>
+    <string name="city_yalta">Ялта</string>
+</resources>
